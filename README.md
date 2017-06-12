@@ -1,0 +1,2 @@
+# uirenadmin
+uirenmanage
